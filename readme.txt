@@ -1,13 +1,13 @@
 Git is a distributed version control system.
-Git is free software distributed under the GPL.
+Git is frEe software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
-Creating a new branch is quick and simple.
+CrNg a new branch is quick and simple.
 
-no Fast forward
+no Fast forwArd
 
 branch not saved?
 
-no Fast forward - again
+no fast forward - again
 
-git commit -m "add /usr/bin/env"
+git Commit -m "ADD $usr/bin/env"
