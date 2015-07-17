@@ -10,4 +10,6 @@ branch not saved?
 
 no Fast forward - again
 
-git commit -m "add /usr/bin/env"
+dsadsadsa
+
+git codsadmmit -m "add /usr/bin/env"
