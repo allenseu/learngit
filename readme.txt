@@ -9,3 +9,6 @@ no Fast forward
 branch not saved?
 
 no Fast forward - again
+
+git cooperate with another user - so not within the same account!!!
+must fork at first!!!use your own account to clone! not others address!
