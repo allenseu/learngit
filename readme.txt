@@ -7,3 +7,5 @@ Creating a new branch is quick and simple.
 no Fast forward
 
 branch not saved?
+
+no Fast forward - again
