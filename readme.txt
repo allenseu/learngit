@@ -9,3 +9,5 @@ no Fast forward
 branch not saved?
 
 no Fast forward - again
+
+git commit -m "add /usr/bin/env"
